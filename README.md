@@ -13,13 +13,11 @@ Olá, aqui é o Caique Luís!
   
   
 </div>
-<div style="display: inline_block"><br>
-  <center>
+<div style="display: block"><br>
   <img align="center" alt="" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </center>
 </div>
 
  ![Snake animation](https://github.com/lpcaique/lpcaique/blob/output/github-contribution-grid-snake.svg)
