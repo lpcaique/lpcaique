@@ -1,8 +1,8 @@
 Olá, aqui é o Caique Luís! 
 
 
-- 🎞️ Hoje trabalho como editor de filmes e também sou fotógrafo
-- 💻 Cursando tecnólogo em ADS na Fatec Sorocaba
+- 🎞️ Editor de vídeo e fotógrafo, pego uns freelas de design;
+- 💻 Cursando tecnólogo em ADS na Fatec Sorocaba.
 
 
 <div>
