@@ -1,7 +1,8 @@
-Olá, aqui é o Caique Luís! 
+Oi, eu sou o Caique! 
 
 
-- 🎞️ Editor de vídeo e fotógrafo, pego uns freelas de design;
+- 🎞️ Editor de vídeo e fotógrafo;
+- 🎞️ Estagiário em análise de dados na Rocky.Monks;
 - 💻 Cursando tecnólogo em ADS na Fatec Sorocaba.
 
 
