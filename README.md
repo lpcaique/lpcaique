@@ -2,7 +2,7 @@ Oi, eu sou o Caique!
 
 
 - 🎞️ Editor de vídeo e fotógrafo;
-- 🎞️ Estagiário em análise de dados na Rocky.Monks;
+- 🎞️ Web Analytics Analist Associate na Media.Monks;
 - 💻 Cursando tecnólogo em ADS na Fatec Sorocaba.
 
 
